@@ -2,7 +2,7 @@ from pygame import mixer
 
 mixer.init() #Start the mixer
 
-mixer.music.load('d:\pythontutorials\chapter 1\songs\Daddy Yankee + Katy Perry feat. Snow - Con Calma Remix (Video con Letra Oficial).mp3') #load the song
+mixer.music.load('mention your directory path of songs') #load the song
 mixer.music.set_volume(0.7) #set the volume
 mixer.music.play() #play the mixer
 
